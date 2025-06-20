@@ -1,6 +1,6 @@
 # ML Customer Segmentation
 
-This repo applies unsupervised machine learning to identify key customer segments using retail purchase data. The goal is to help businesses understand customer behavior and develop **targeted marketing strategies**.
+This repo applies unsupervised machine learning to identify key customer segments using retail purchase data. The goal is to help businesses understand customer behavior and develop targeted marketing strategies.
 
 ## 📊 What's Inside
 - Data preprocessing and cleaning
