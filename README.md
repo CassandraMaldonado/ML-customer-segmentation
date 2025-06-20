@@ -4,8 +4,8 @@ This repo applies unsupervised machine learning to identify key customer segment
 
 ## What I did:
 - Data preprocessing and cleaning
-- Feature engineering based on RFM (Recency, Frequency, Monetary value)
-- Dimensionality reduction (PCA)
+- Feature engineering based on Recency, Frequency and Monetary value (RFM)
+- Dimensionality reduction with PCA
 - Clustering using K-Means and Hierarchical Clustering
 - Cluster analysis and visualization
 
