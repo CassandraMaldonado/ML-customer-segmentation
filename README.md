@@ -15,13 +15,6 @@ Useful for retailers or marketers looking to:
 - Identify high-value vs low-engagement customer groups
 - Inform loyalty programs or retention efforts
 
-## 🧠 Technologies
+## Tech
 - Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
 - Jupyter Notebook
-
-## 📂 File
-- `Customer_Retail.ipynb` – main notebook containing the full analysis
-
----
-
-Feel free to fork or adapt the code to your own customer datasets!
