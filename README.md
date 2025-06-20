@@ -2,7 +2,7 @@
 
 This repo applies unsupervised machine learning to identify key customer segments using retail purchase data. The goal is to help businesses understand customer behavior and develop targeted marketing strategies.
 
-## What's Inside
+## What I did:
 - Data preprocessing and cleaning
 - Feature engineering based on RFM (Recency, Frequency, Monetary value)
 - Dimensionality reduction (PCA)
